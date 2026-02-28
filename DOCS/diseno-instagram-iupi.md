@@ -1,192 +1,242 @@
-# Guía de diseño y contenido – Instagram iUpi
+# Guía de diseño y estrategia – Instagram iUpi
 
-Este documento define la propuesta de comunicación visual y de contenido para Instagram iUpi, con el objetivo de generar **confianza, educación clara y conversión a la waitlist**.
+Este documento define la estrategia completa de comunicación, diseño y conversión del canal de Instagram de iUpi, con foco en generar confianza, educación clara y tráfico calificado hacia la waitlist.
 
+El objetivo no es solo crecer en seguidores, sino convertir interés en registros reales.
 
-## Objetivo de Instagram
+---
 
-- Educar sin abrumar.
-- Humanizar la marca.
-- Mostrar valor antes de vender.
-- Llevar tráfico calificado a la lista de espera.
+# 🎯 Objetivo del Canal
 
+Instagram funciona como:
 
-## Bio propuesta
+- Canal de educación inicial.
+- Punto de validación emocional.
+- Generador de confianza.
+- Fuente de tráfico hacia la landing.
+
+Meta principal:
+Aumentar la tasa de registro en la lista de espera.
+
+---
+
+# 👤 Público Objetivo
+
+Personas de 25 a 45 años que:
+
+- Tienen ingresos estables.
+- Tienen capacidad de ahorro.
+- Nunca invirtieron o lo intentaron sin éxito.
+- Tienen miedo a perder dinero.
+- Desconfían de plataformas financieras tradicionales.
+- Quieren aprender pero no saben por dónde empezar.
+
+Barreras psicológicas detectadas:
+
+- Miedo a perder dinero.
+- Miedo a no entender.
+- Vergüenza de preguntar.
+- Saturación de promesas financieras irreales.
+
+La comunicación debe validar emocionalmente antes de educar.
+
+---
+
+# 💬 Propuesta de Comunicación
+
+Posicionamiento:
+
+"Aprendé a invertir sin arriesgar tu dinero real."
+
+Mensaje central:
+Invertí por primera vez sin miedo.
+
+Submensaje:
+Practicá antes de usar tu dinero.
+Entendé lo que hacés.
+Tomá decisiones con confianza.
+
+Tono:
+
+- Cercano
+- Humano
+- Claro
+- Sin tecnicismos
+- Sin tono bancario
+
+---
+
+# 🎨 Identidad Visual
+
+Paleta:
+
+- Azul intenso (confianza y seguridad).
+- Coral/naranja suave (energía y acción).
+- Fondo claro y limpio.
+
+Estilo:
+
+- Minimalista.
+- Mobile first.
+- 1 mensaje fuerte por slide.
+- Ilustraciones simples tipo flat design.
+- Mucho espacio en blanco.
+- Alto contraste en CTA.
+
+Evitar:
+
+- Gráficos complejos.
+- Lenguaje técnico.
+- Estética corporativa bancaria.
+
+---
+
+# 🧩 Estructura del Canal
+
+## Bio
 
 🎓 Tu gimnasio financiero antes de invertir  
 📉 Practicá ahorro e inversión sin dinero real  
 🚀 Aprendé, equivocáte y ganá confianza  
 👇 Sumate a la lista de espera  
 
+---
 
-## Historias destacadas
+## Historias Destacadas
 
-**Cantidad ideal:** 5 destacadas
+1. ¿Qué es iUpi?
+2. Cómo funciona
+3. El simulador
+4. Para quién es
+5. Beta / Lista de espera
 
+Objetivo:
+Reducir objeciones antes de que la persona vaya a la landing.
 
-### Destacada 1: ¿Qué es iUpi?
+---
 
-**Slide 1**  
-¿Querés aprender a invertir pero te da miedo perder plata?
+# 📲 Estrategia de Contenido
 
-**Slide 2**  
-iUpi es una app educativa para aprender a ahorrar e invertir sin usar dinero real.
+## 1. Carruseles Educativos
 
-**Slide 3**  
-Probás, te equivocás y aprendés antes de invertir de verdad.
+Objetivo:
+Educar sin abrumar + generar guardados.
 
+Estructura:
 
+Hook emocional → Problema → Insight → Solución → Beneficio → CTA
 
-### Destacada 2: Cómo funciona
+---
 
-**Slide 1**  
-Invertir no debería ser un salto al vacío.
+## 2. Carrusel Producto (Tangibilidad)
 
-**Slide 2**  
-En iUpi usás dinero virtual para simular inversiones reales.
+Objetivo:
+Mostrar cómo se ve el simulador y reducir fricción.
 
-**Slide 3**  
-Aprendés con ejemplos simples y situaciones de la vida real.
+Contenido:
 
+- Mockups del simulador.
+- Ejemplo práctico con dinero virtual.
+- Resultado visual simple.
+- CTA claro y directo.
 
-### Destacada 3: El simulador
+Esto reduce la percepción de abstracción del concepto “simulación financiera”.
 
-**Slide 1**  
-¿Y si pudieras practicar sin riesgo?
+---
 
-**Slide 2**  
-El simulador te permite ver qué pasa cuando invertís, sin usar tu plata.
+## 3. Reels
 
-**Slide 3**  
-Así ganás confianza antes de dar el paso real.
+Duración: 15–20 segundos.
 
+Formato:
+Persona hablando a cámara + subtítulos grandes.
 
-### Destacada 4: Para quién es
+Estructura:
 
-**Slide 1**  
-iUpi es para vos si…
+Hook:
+"¿Querés invertir pero te da miedo perder plata?"
 
-**Slide 2**  
-Nunca invertiste o lo intentaste y no te fue bien.
+Desarrollo:
+"En iUpi practicás sin usar dinero real."
 
-**Slide 3**  
-Querés cuidar tu dinero pero no sabés por dónde empezar.
+Cierre:
+"Sumate a la lista de espera y aprendé sin riesgo."
 
+---
 
-### Destacada 5: Beta
+## 4. Prueba Social
 
-**Slide 1**  
-Estamos en beta 🚀
+Para aumentar conversión se incorporan:
 
-**Slide 2**  
-Sumate a la lista de espera y accedé antes que nadie.
+- Testimonios beta.
+- Mini casos prácticos.
+- Comentarios simulados.
+- Historias mostrando interacción real.
 
-**Slide 3**  
-Aprendé hoy, invertí con seguridad mañana.
+Objetivo:
+Aumentar confianza y reducir fricción antes del registro.
 
+---
 
-### Portadas de destacadas (criterios de diseño)
+# 🔄 Embudo de Conversión
 
-- 
+Contenido →  
+Interacción →  
+Click en bio →  
+Landing optimizada →  
+Registro en waitlist
 
-## Feed – Tipos de contenido
+---
 
-### Carruseles
+# 📊 Estrategia de Medición
 
-**Objetivo:** Educación + validación emocional  
-**Estilo:** Humano, simple, cero tecnicismos  
-**Formato:** Mobile first
+UTM diferenciadas para:
 
+- Instagram Feed
+- Instagram Stories
+- Instagram Reels
 
-## Carrusel IG – iUpi
+Métricas clave:
 
-**Objetivo:** Que la persona entienda qué es iUpi, se sienta segura y deje su email.  
-**Cantidad:** 6 slides
+- CTR del link en bio.
+- Conversion Rate (visita → registro).
+- Guardados por post.
+- Interacción promedio.
+- Abandono de formulario.
 
+---
 
-### Slide 1 – Hook
+# 🧪 Plan de Experimentos
 
-**Texto:**  
-👉 ¿Te gustaría aprender a invertir sin arriesgar tu dinero?
+Test A:
+CTA: "Sumate a la lista de espera"
 
-### Slide 2 – Problema
+Test B:
+CTA: "Quiero aprender sin arriesgar mi plata"
 
-**Texto:**  
-Invertir da miedo cuando nadie te lo explica bien.  
-Y perder plata… más.
+Medir:
+CTR y tasa de conversión final.
 
-### Slide 3 – Insight
+---
 
-**Texto:**  
-La mayoría no falla por falta de dinero.  
-Falla por falta de práctica.
+# 🚀 Impacto Esperado
 
-### Slide 4 – Qué es iUpi
+- Mayor claridad del producto.
+- Reducción de fricción en el registro.
+- Identificación del contenido que mejor convierte.
+- Aumento proyectado del conversion rate entre 15% y 30%.
 
-**Texto:**  
-iUpi es una app para aprender y practicar inversiones sin usar dinero real.
+---
 
-Simulás. Entendés. Ganás confianza.
+# 🧠 Enfoque Estratégico
 
+Instagram no se usa para vender agresivamente.
 
-### Slide 5 – Beneficio claro
+Se usa para:
 
-**Texto:**  
-Aprendés hoy,  
-para invertir mejor mañana.
+- Validar emociones.
+- Educar con simplicidad.
+- Construir confianza.
+- Generar intención.
 
-Sin presión.  
-Sin riesgo.
-
-
-### Slide 6 – CTA
-
-**Texto grande:**  
-🚀 Sumate a la lista de espera
-
-**Texto chico:**  
-Dejá tu email y sé de las primeras personas en probar iUpi.
-
-
-## Reels
-
-**Objetivo:** Cercanía + confianza + acción  
-**Duración:** 15–20 segundos  
-**Formato:** Persona hablando a cámara + apoyos visuales
-
-
-## Video / Reel – iUpi
-
-### Guion del Reel
-
-**Hook (0–3s):**  
-¿Querés invertir pero te da miedo perder plata?
-
-**Desarrollo (3–12s):**  
-En iUpi practicás inversiones sin usar dinero real.  
-Aprendés cómo funciona todo antes de invertir de verdad.
-
-**Cierre + CTA (12–18s):**  
-Sumate a la lista de espera y aprendé sin riesgo.
-
-
-### Texto en pantalla (subtítulos cortos)
-
-- Invertir sin miedo  
-- Sin dinero real  
-- Aprendé antes de invertir  
-- Lista de espera abierta  
-
-
-### Portada del Reel
-
-**Texto grande:**  
-Invertí sin miedo
-
-**Texto chico:**  
-Practicá sin usar dinero real
-
-
-## Estilo visual general
-
-- 
+El objetivo final no es solo crecer en seguidores, sino convertir interés en usuarios reales.

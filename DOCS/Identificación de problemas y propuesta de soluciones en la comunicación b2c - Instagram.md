@@ -1,220 +1,255 @@
-# Identificación de problemas y propuesta de soluciones en la comunicación B2C – Instagram
+# Identificación de problemas y propuesta de mejora en la comunicación B2C – Instagram
 
 ## 1. Contexto y objetivo del informe
 
-El presente informe tiene como objetivo analizar el desempeño y la efectividad de la comunicación B2C de iUpi en redes sociales, con foco en la **optimización de la tasa de conversión a registros de email en la web**, y en la **correcta identificación del canal de llegada del usuario** (Instagram, LinkedIn, X, Facebook).
+El presente informe tiene como objetivo analizar el desempeño y la efectividad de la comunicación B2C de iUpi en redes sociales, con foco en:
 
-El análisis parte de un diagnóstico inicial ya identificado por el equipo:
-- La comunicación actual es **genérica**, **excesivamente institucional** y con un **look & feel cercano al sector bancario tradicional**, lo cual crea una brecha entre el **público objetivo real** de iUpi. *(Hay que definir el buyer persona)*
-- El lenguaje visual y verbal resulta **muy plana**, poco emocional y con baja diferenciación.
-- No se percibe con claridad la propuesta de valor de iUpi: *aprender y practicar inversiones sin riesgo antes de usar dinero real*.
+- Optimización de la tasa de conversión a registros de email en la web.
+- Correcta identificación del canal de adquisición del usuario (Instagram, LinkedIn, X, Facebook).
+- Mejora en la calidad del tráfico derivado.
 
-Este documento se centra inicialmente en **Instagram**, por ser uno de los principales canales de atracción B2C y el más sensible a decisiones de diseño, tono y narrativa. 
+El análisis parte de un diagnóstico inicial:
 
-## 2. Rol de Instagram dentro del ecosistema B2C de iUpi
+- Comunicación genérica y excesivamente institucional.
+- Estética y tono cercanos al sector bancario tradicional.
+- Baja diferenciación frente a fintechs educativas.
+- Propuesta de valor poco clara en los primeros segundos de contacto.
 
-Instagram debería cumplir tres funciones clave dentro del funnel de iUpi:
+Actualmente, la cuenta comunica información financiera, pero no logra transmitir con claridad su diferencial:
 
-1. **Atracción**: captar la atención de usuarios que sienten interés o ansiedad por el ahorro y la inversión.
-2. **Identificación**: lograr que el usuario se vea reflejado en el problema que iUpi resuelve.
-3. **Conversión blanda**: derivar tráfico *calificado* a la web para registro de email.
+> Aprender y practicar inversiones sin riesgo antes de utilizar dinero real.
 
-Actualmente, la cuenta se posiciona más como un **canal informativo institucional**, lo que limita su capacidad de cumplir estas funciones.
+Instagram debe dejar de operar como un canal informativo y comenzar a funcionar como un sistema de pre–calificación de usuarios con intención real.
 
-## 3. Puntos de mejora
+---
 
-### 3.1 Nombre de Usuario (iupi.ahorro.inversiones)
+## 2. Buyer Persona Primario
 
-**Situación actual (problema)**
+**Edad:** 25–45 años  
+**Situación:** Ingresos estables, capacidad potencial de ahorro.  
+**Dolor principal:** Miedo a perder dinero por falta de conocimiento.  
 
-- Nombre de usuario muy complejo. Para poder calar en el público no debe ser descriptivo, sino memorable y funcional.
+**Creencias frecuentes:**
+- “Invertir es complicado.”
+- “Eso es para expertos.”
+- “Voy a perder si no entiendo.”
 
-**Oportunidad de mejora**
-- Apropiación del sentimiento latino en el mundo de las fintech.
+**Barreras:**
+- Desconfianza en bancos y fintech tradicionales.
+- Sensación de inferioridad técnica frente al mundo financiero.
 
-**Alternativas sugeridas**
-- *@iUpi.ar*
-- *iUpi.finance*
+**Motivación profunda:**
+- Cuidar su patrimonio.
+- Ganar seguridad financiera.
+- Sentirse capaz de tomar decisiones informadas.
 
-### 3.2 Biografía (Bio)
+La comunicación debe hablarle a esta inseguridad, no al concepto abstracto de “educación financiera”.
 
-**Situación actual (problema)**
-- Uso de descripciones genéricas del tipo *“Ahorro e inversiones”*, *“Educación financiera”* o similares.
-- Lenguaje neutro, impersonal y poco orientado al usuario.
-- No queda claro:
-  - Para quién es iUpi
-  - Qué problema concreto resuelve
-  - Por qué es distinta a otras apps o bancos
+---
 
-Estos factores juntos generan una **baja tasa de conversión del perfil**, ya que el usuario no entiende rápidamente el beneficio de hacer clic.
+## 3. Rol estratégico de Instagram en el funnel B2C
 
-**Oportunidades de mejora**
-- La bio debe funcionar como un **micro–pitch de valor**, no como una descripción institucional.
-- En Instagram, el usuario decide en segundos si sigue o abandona el perfil.
+Instagram debe cumplir tres funciones clave:
 
-**Lineamientos recomendados:**
-- Hablar en **segunda persona**.
-- Mencionar explícitamente el concepto de *sin riesgo*.
-- Introducir un disparador emocional (miedo, duda o inseguridad al invertir).
-- CTA claro hacia el link.
+1. **Atracción:** captar la atención de usuarios que sienten ansiedad o interés por el ahorro y la inversión.
+2. **Identificación:** generar reconocimiento emocional (“esto es para mí”).
+3. **Conversión blanda:** derivar tráfico calificado a la web para registro de email.
 
-Ejemplos conceptuales (no definitivos):
+Actualmente, el canal se comporta como una vitrina institucional, lo que limita su capacidad de conversión.
 
-> *📉 Practicá ahorro e inversión sin dinero real*
-> *🚀 Aprendé, equivocáte y ganá confianza*
-> *👇 Sumate a la lista de espera*
+---
 
-> *Aprende a invertir desde cero sin arriesgar tu dinero.*  
-> *Aprende con simulaciones reales*
-> *Sin dinero real, ni preocupaciones*  
-> *👉 Súmate a la lista de espera*
+## 4. Puntos críticos detectados y oportunidades de mejora
 
-> *Aprende a ahorrar e invertir con iUpi*
-> *Educación financiera práctica*
-> *Sin dinero real, ni preocupaciones*
-> *👇 Sumate a la lista de espera*
+### 4.1 Nombre de usuario
 
-### 3.3 Lenguaje visual del feed
+**Problema actual:**  
+El nombre actual resulta complejo, descriptivo y poco memorable.
 
-**Situación actual (problema)**
-- Estética sobria, colores fríos y composición rígida.
-- Diseño cercano a:
-  - Bancos tradicionales
-  - Fintechs institucionales
-- Falta de jerarquía visual clara.
-- Posts visualmente similares entre sí, lo que reduce el *scroll stop*.
+**Impacto:**  
+Dificulta recordación, búsqueda directa y construcción de marca.
 
-Además existe una notable inconsistencia en la aplicación de la marca, debilitando el reconocimiento de la marca y confundiendo al consumidor.
+**Recomendación:**  
+Migrar hacia un nombre más corto y apropiable, que refuerce identidad y memorabilidad.
 
-**Impacto negativo**
-- iUpi se percibe como:
-  - Compleja
-  - Seria
-  - Técnica
+Ejemplos:
+- `@iUpi.ar`
+- `@iUpi.finance`
 
-Esto contradice directamente la promesa de *aprender sin riesgo y sin miedo*.
+El objetivo es construir marca, no describir el servicio.
 
-**Oportunidades de mejora**
-- Evolucionar hacia un lenguaje más:
-  - Didáctico
-  - Cercano
-  - Experimental
+---
 
-**Recomendaciones visuales:**
-- Mayor contraste de tamaños tipográficos.
-- Uso de ilustraciones simples o metáforas visuales.
-- Menos texto por slide, más foco en una sola idea.
-- Introducir patrones repetibles (series de contenido).
+### 4.2 Biografía (Bio)
 
-### 3.4 Tono y mensaje del contenido
+**Problema actual:**
 
-**Situación actual (problema)**
-- Posts con exceso de texto en una sola lámina.
-- Mensajes poco escaneables.
-- No se aprovecha el formato carrusel como recurso narrativo.
-- Tono neutro, informativo y distante.
-- Enfoque en *qué es* en lugar de *por qué le importa al usuario*.
+- Lenguaje neutro e institucional.
+- Propuesta de valor poco específica.
+- No se comunica claramente:
+  - Para quién es.
+  - Qué problema resuelve.
+  - Qué la diferencia.
 
-**Oportunidades de mejora**
-- Migrar de un tono institucional a uno:
-  - Conversacional
-  - Empático
-  - Educativo sin ser académico
-- Usar el carrusel como una **historia progresiva**:
-  - Slide 1: Hook
-  - Slide 2: Insight
-  - Slide 3: Solución (iUpi)
-  - Slide final: CTA
+**Impacto:**  
+Baja tasa de clic en el link.
 
-Ejemplo conceptual:
-> “No es falta de plata, es falta de práctica.”
-> “Invertir sin entender = apostar.”
-> “iUpi te deja practicar sin riesgo.”
-> “Empieza gratis desde el link.”
+**Recomendación estratégica:**
 
-**Cambio clave:**
-Hablar menos como una empresa financiera y más como un **mentor que acompaña**.
+La bio debe funcionar como un micro–pitch orientado a conversión.
 
-### 3.5 Link en bio y trazabilidad del canal
+**Lineamientos:**
 
-**Situación actual (problema)**
-- Uso de un único link genérico sin diferenciación por canal.
-- No queda registro claro de si el usuario proviene de Instagram, LinkedIn, X o Facebook.
+- Hablar en segunda persona.
+- Mencionar explícitamente el concepto de “sin riesgo”.
+- Activar disparadores emocionales (miedo, duda, inseguridad).
+- Incluir CTA directo y accionable.
 
-**Oportunidades de mejora**
-- Implementar links diferenciados por canal (UTM o landing específica).
-- El CTA debe estar alineado con el **mensaje del post** que lo antecede.
+**Ejemplo conceptual:**
+📉 Practicá ahorro e inversión sin dinero real
+🚀 Aprendé, equivocáte y ganá confianza
+👇 Sumate a la lista de espera
+
+
+---
+
+### 4.3 Lenguaje Visual
+
+**Problemas:**
+- Estética rígida.
+- Similitud con bancos.
+- Baja jerarquía visual.
+
+**Percepción generada:** complejidad y distancia.
+
+**Recomendaciones:**
+- Una idea fuerte por slide.
+- Mayor contraste tipográfico.
+- Series repetibles.
+- Visual simple y didáctico.
+
+Objetivo: claridad + cercanía + simplicidad.
+
+---
+
+### 4.4 Tono y Narrativa
+
+**Problemas:**
+- Exceso de texto.
+- Poca escaneabilidad.
+- Enfoque en “qué es” vs “por qué importa”.
+
+**Recomendación:** tono mentor.
+
+Estructura carrusel:
+
+1. Hook
+2. Insight
+3. Reencuadre
+4. Solución
+5. CTA
 
 Ejemplo:
-- /registro?canal=instagram
-- /registro?canal=linkedin
 
-Esto permitirá:
-- Medir conversión real por red social.
-- Optimizar mensajes según performance.
+> “No es falta de plata, es falta de práctica.”  
+> “Invertir sin entender es apostar.”  
+> “iUpi te deja practicar sin riesgo.”  
+> “Empieza gratis desde el link.”
 
-## 4. Plan de acción para las siguientes etapas
+---
 
-### 4.1 Problemas detectados > Objetivos de contenido
+### 4.5 Link y Trazabilidad
 
-**Problema detectado > Objetivo de contenido**
+**Problema:** link genérico único.
 
-Comunicación genérica > Clarificar propuesta de valor en < 3 segundos.
-Tono institucional > Humanizar y generar identificación.
-Visual plano > Aumentar scroll-stop y retención.
-Baja conversión > Llevar tráfico calificado al link.
-Falta de trazabilidad > Medir canal Instagram de forma consistente.
+**Recomendación técnica:**
 
-***Regla*** *Cada pieza de contenido debe cumplir ***al menos uno*** de estos objetivos* 
+- UTM por canal
+- Landing diferenciada
+- Parámetro tipo `/registro?canal=instagram`
 
-### 4.2 Definir pilares de contenido (no temas sueltos)
+Permite:
+- Medir conversión real.
+- Identificar canal de mayor intención.
+- Optimizar por performance.
 
-- **Identificación**
-- **Educación simple y sin jergas**
-- **Método iUpi**
-- **Conversión blanda**
+---
 
-**Formato > Uso principal**
+## 5. Hipótesis de Mejora
 
-Carrusel > Narrativa + educación 
-Reel simple (texto + voz) > Identificación emocional
-Post estático > Frases de alto impacto
-Stories > Recordatorio + CTA
-Bio + destacados > Conversión Pasiva
+Si:
 
-Cada formato con una intención bien definida
+- Se clarifica la propuesta de valor,
+- Se humaniza el tono,
+- Se simplifica el diseño,
+- Se implementa trazabilidad,
 
-### 4.3 Plantilla accionable
+Entonces:
 
-> *Ver ejemplo del punto 3.4*
+- Aumentará el CTR en bio.
+- Mejorará la conversión a registro.
+- Se identificará el canal más eficiente.
 
-### 4.4 Establecer un calendario mínimo viable
+---
 
-**Constacia > volumen**
+## 6. Objetivos Estratégicos
 
-### 4.5 Medición clara (sin métricas de vanidad)
+| Problema | Objetivo |
+|----------|----------|
+| Comunicación genérica | Claridad en <3 segundos |
+| Tono institucional | Identificación emocional |
+| Visual plano | Mayor scroll-stop |
+| Baja conversión | Tráfico calificado |
+| Sin trazabilidad | Medición consistente |
 
-**Métricas clave:**
-- Clics en link de bio
-- Registros de email desde Instagram
-- Retención en carruseles (slide 2–3)
-- Replies a stories
+**Regla:** cada pieza debe cumplir al menos uno.
 
-**No priorizar:**
+---
+
+## 7. Pilares de Contenido
+
+1. Identificación  
+2. Educación simple  
+3. Método iUpi  
+4. Conversión blanda  
+
+### Formatos
+
+- **Carrusel:** educación + narrativa  
+- **Reel:** identificación emocional  
+- **Post estático:** impacto  
+- **Stories:** recordatorio + CTA  
+- **Bio + destacados:** conversión pasiva  
+
+Constancia > volumen.
+
+---
+
+## 8. Métricas Clave
+
+### Medir
+- Clics en bio
+- Registros desde Instagram
+- Retención slide 2–3
+- Respuestas a stories
+
+### No priorizar
 - Likes
 - Seguidores
 - Alcance sin conversión
 
-## 5. Conclusión parcial – Instagram
+---
 
-Instagram representa una oportunidad crítica para aumentar la conversión B2C de iUpi, pero requiere ajustes estructurales en:
+## 9. Conclusión Estratégica
 
-- Nombre de usuario
-- Visibilidad de la propuesta de valor
-- Diseño visual
-- Tono comunicacional
-- Uso del link y trazabilidad
+Instagram es una oportunidad crítica para escalar la conversión B2C.
 
-Una buena ejecución de las recomendaciones en cada uno de los aspectos anteriormente mencionados resultará en mayor claridad para los usuarios, más tráfico calificado, mejores registros de email y mensajes que se pueden optimizar por performance.
+Requiere ajustes en:
 
-La mejora no pasa por publicar más, sino por **comunicar mejor**, alineando cada elemento del perfil con el objetivo final: **convertir interés en registros de email calificados.**
+- Naming
+- Propuesta de valor
+- Diseño
+- Tono
+- Medición
+
+El objetivo no es generar interacción, sino **convertir interés en registros de email calificados y medibles**.
