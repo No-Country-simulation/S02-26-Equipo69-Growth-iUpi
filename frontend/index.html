@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>iUpi | Aprende a Invertir sin Miedo</title>
+    
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+    <div class="main-wrapper">
+        
+        <nav class="brand-header">
+            <h1>iUpi <i class="fa-solid fa-rocket" style="color: #FC8F7F; font-size: 0.8em;"></i></h1>
+        </nav>
+
+        <header class="hero-section">
+            <div class="hero-content">
+                <h2 class="hero-title">
+                    Deja de tener miedo a invertir. <br>
+                    <span style="color: #FC8F7F;">Practica primero.</span>
+                </h2>
+                <p class="hero-subtitle">
+                    Invierte con dinero ficticio. Equivócate. Aprende.<br>
+                    Y recién después usa tu dinero real.
+                </p>
+                
+                <a href="#waitlist-section" class="cta-button">
+                    Quiero acceso anticipado
+                </a>
+            </div>
+
+            <div class="hero-image-container">
+                <div class="mockup-placeholder">
+                    <img src="./assets/dashboard-mockup.png" 
+                         alt="Simulador de inversiones iUpi" 
+                         onerror="this.style.display='none'; this.nextElementSibling.style.display='block';"
+                         style="width: 100%; height: auto; display: block; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.1);">
+                    
+                    <div class="placeholder-text" style="display: none; background: #f4f4f4; border: 2px dashed #ccc; padding: 40px; border-radius: 12px; margin-top: 20px; color: #888;">
+                        <i class="fa-solid fa-chart-line fa-2x"></i><br>
+                        <p style="margin-top:10px; font-size: 0.9rem;">
+                            [Mockup del Dashboard en construcción]<br>
+                            Gráfico, Botones y Saldo
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <section class="how-it-works">
+            <div class="steps-grid">
+                <div class="step-item">
+                    <div class="step-icon">
+                        <i class="fa-solid fa-gamepad" style="color: #FC8F7F;"></i>
+                    </div>
+                    <div class="step-content">
+                        <h3>Practica</h3>
+                        <p>Usa dinero ficticio sin riesgo alguno en nuestro simulador.</p>
+                    </div>
+                </div>
+                
+                <div class="step-item">
+                    <div class="step-icon">
+                        <i class="fa-solid fa-chart-column" style="color: #FC8F7F;"></i>
+                    </div>
+                    <div class="step-content">
+                        <h3>Aprende</h3>
+                        <p>Entiende cómo se mueve el mercado real día a día.</p>
+                    </div>
+                </div>
+                
+                <div class="step-item">
+                    <div class="step-icon">
+                        <i class="fa-solid fa-shield-halved" style="color: #FC8F7F;"></i>
+                    </div>
+                    <div class="step-content">
+                        <h3>Confía</h3>
+                        <p>Gana seguridad y experiencia antes de usar tu dinero.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="waitlist-section" class="signup-section">
+            <div class="card">
+                <div class="form-header">
+                    <h3>Sé de las primeras personas en probar la Beta</h3>
+                    <p>Y recibe gratis la guía práctica: <strong>“Cómo empezar a invertir sin miedo”</strong>.</p>
+                </div>
+                
+                <form id="waitlistForm">
+                    <div class="input-group">
+                        <i class="fa-regular fa-envelope input-icon"></i>
+                        <input type="email" id="emailInput" placeholder="tu@email.com" required>
+                    </div>
+                    
+                    <button type="submit" id="submitBtn">
+                        Quiero acceso anticipado <i class="fa-solid fa-arrow-right"></i>
+                    </button>
+                </form>
+
+                <div id="mensaje" class="message-box hidden"></div>
+
+                <div class="social-proof">
+                    <p>
+                        <i class="fa-solid fa-fire-flame-curved" style="color: #FC8F7F;"></i> 
+                        +<span id="counter" style="font-weight: 700;">50</span> personas ya están en la lista de espera
+                    </p>
+                </div>
+            </div>
+        </section>
+
+        <footer>
+            <p><i class="fa-solid fa-lock"></i> Tus datos están seguros. Cero spam.</p>
+            <p style="margin-top: 10px; opacity: 0.6;">MVP para No Country - 2026</p>
+        </footer>
+
+    </div>
+
+    <script type="module" src="js/main.js"></script>
+
+</body>
+</html>
