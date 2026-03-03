@@ -18,8 +18,8 @@ Comunicación + Tracking + MVP técnico mínimo.
 Frontend + Backend + Dashboard
 
 ##  Demo
-- Landing:
-- Dashboard:
+- Landing:https://iupi-mvp.netlify.app/
+- Dashboard:https://iupi-mvp.netlify.app/dashboard.html
 
 ##  Documentación
 Ver carpeta /docs
